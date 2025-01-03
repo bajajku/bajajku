@@ -80,4 +80,4 @@ Beyond code, I’m a philosopher at heart, always intrigued by the deeper "why" 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bajajku)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=codepen&logoColor=white)](https://bajajku-github-io.vercel.app/)  
 
-Let's connect and create something extraordinary together! 🚀  
+Let's connect and create something extraordinary together or ordinary would be fine too! 🚀  
