@@ -1,8 +1,6 @@
 # Hi, I’m Kunal Bajaj 👋
 
 🎓 **Honours BSc in Computer Science (Mobile Computing)**  
-📍 Sheridan College | 2022–2026
-
 ---
 
 ## 🧠 About Me
