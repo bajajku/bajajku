@@ -1,6 +1,8 @@
 # Hi, I’m Kunal Bajaj 👋
 
 🎓 **Honours BSc in Computer Science (Mobile Computing)**  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bajajku)
+
 ---
 
 ## 🧠 About Me
