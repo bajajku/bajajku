@@ -1,74 +1,88 @@
+<div align="center">
+
 # Hi, I’m Kunal Bajaj 👋
 
-🎓 **Honours BSc in Computer Science (Mobile Computing)**  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bajajku)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Incoming+SWE+%40+Google;AI+Safety+%7C+Researcher;Life-maxxing...;Happiness+of+the+Pursuit" alt="Typing SVG" /></a>
+
+**Honours BSc in Computer Science (Dec 2026)**
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bajajku&color=FF69B4&style=flat&label=views&logo=github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=FF69B4)](https://linkedin.com/in/kunal-bajaj1)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=codepen&logoColor=FF69B4)](https://bajajku-github-io.vercel.app/)
+
+</div>
 
 ---
 
-## 🧠 About Me
-
-I'm a developer who loves turning complex problems into simple, elegant solutions. Whether it's building scalable mobile apps, crafting AI chatbots, or optimizing backend systems, I'm driven by curiosity and a desire to make things better.
-
-Outside of tech, I think like a philosopher and play like an athlete. I’m drawn to ideas, challenges, and collaboration. I believe in meaningful technology—tools that make life easier, fairer, and more human.
+### 🧠 SYSTEM PROMPT (About Me)
+> **Status: Life-maxxing.** <br> 
+> Currently fine-tuning my brain’s foundational model on a chaotic dataset of Philosophy, Health, Sports, Code, Finance, and Music. Just trying to minimize my loss function in real life.
 
 ---
 
-## ⚙️ Skills & Technologies
+### 🚀 CAREER ARC (So far)
 
-### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<img align="right" src="https://media.tenor.com/V9KzYqD2k1IAAAAi/cat-typing.gif" width="180" alt="Coding gif"/>
 
-### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Incoming Software Engineer Intern @ Google**
+*Google Workspace AI Safety Team*
+* Making sure the AI doesn't go rogue. The LeetCode grind actually paid off :)
 
-### ☁️ Cloud, Databases & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Applied AI Researcher Intern @ PointClickCare**
+*Referral Advisor*
+* Intern era: absorbing knowledge directly from PhD researchers.
 
----
+**Applied AI Engineer/Researcher @ Sheridan Centre for Applied AI**
+*Projects I actually shipped to production:*
+* 🎖️ **Veteran Affairs Canada:** Agentic mental-health chatbot (AI helping veterans carry the load).
+* 👶 **Korah:** ML that predicts NICU beds *(saving babies > your AI wrapper startup idea)*.
+* ⚙️ **VEE Technologies:** C++ fabric sensor sorcery (low-level programming, yay).
+* 📚 **Oakville Public Library:** LangChain RAG chatbot (overengineered with optimized chunking + concurrent request handling because why not).
 
-## 🏆 Highlights
-
-- 🤖 **AI-Driven Solutions**: Built LLM-powered chatbots, trauma-informed support tools, and intelligent recommendation systems.
-- 🛰 **IoT & Wearables**: Designed sensor communication layers using Arduino and Node.js, improving system responsiveness.
-- 📊 **Full-Stack Projects**: From REST APIs to sleek frontends, delivered apps that combine functionality with intuitive UX.
-- 🌐 **Cross-Team Collaboration**: Worked with designers, hardware engineers, and researchers across institutions to ship production-ready features.
-
----
-## 🚀 What I’m Exploring
-
-- Diving into **agentic AI architectures** using tools like **RAG**, **LangGraph**, and **Mistral**  
-- Sharpening my **engineering intuition** through hands-on work in backend design, API architecture, and mobile UX  
-- Practicing **DSA** and **systems design** to strengthen my problem-solving and scalability thinking  
-- Continuously experimenting with new **frameworks, tools, and design patterns** to stay language-agnostic and solution-oriented
 
 ---
 
-## ✨ Fun Facts
-
-- 🧠 Thinks deeply. Acts practically.
-- ⚽ Sports fan: cricket, football, table tennis—you name it.
-- 📚 Big on learning things that matter. Tech or otherwise.
-
----
-
-## 📈 GitHub Stats
-
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bajajku&show_icons=true&theme=tokyonight)  
+### 🎯 WHAT I’M ACTUALLY INTO
+- 🏗️ **Building production-grade AI systems** that don’t immediately fall apart when users do something weird.
+- 📄 **Reading research papers** and translating the complex math into code that works.
+- ⚔️ **DSA** (Getting humbled by LeetCode Hards on a daily basis).
+- 🔓 **Open Source** (Making PRs when I find something genuinely interesting).
+- 📐 **System Design** (Drawing boxes and arrows until they finally make sense).
 
 ---
 
-## 📫 Let’s Connect
+### ⚙️ THE STACK (The ones that get used)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-bajaj1)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bajajku)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=codepen&logoColor=white)](https://bajajku-github-io.vercel.app/)  
+#### 🧑‍💻 Languages I Tolerate
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=FF69B4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=FF69B4)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&color=FF69B4)
 
-Let’s build something cool—or at least something that works. 😉
+#### 🧰 Frameworks That Pay The Bills
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&color=FF69B4)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=FF69B4)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=FF69B4)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=FF69B4)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white&color=FF69B4)
+
+#### ☁️ Where I Deploy (And Pray)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF69B4)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=FF69B4)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=FF69B4)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&color=FF69B4)
+
+---
+
+### 📈 THE DASHBOARD (Numbers don't lie)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bajajku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=FF69B4&title_color=FF69B4" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajajku&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4" height="150" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>Let’s build something cool — or at least something that actually compiles. 😉</i>
+</div>
