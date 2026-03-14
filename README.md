@@ -29,7 +29,7 @@
 * Making sure the AI doesn't go rogue. The LeetCode grind actually paid off :)
 
 **Applied AI Researcher Intern @ PointClickCare**
-*Referral Advisor*
+*Advanced Tech Team*
 * Intern era: absorbing knowledge directly from PhD researchers.
 
 **Applied AI Engineer/Researcher @ Sheridan Centre for Applied AI**
