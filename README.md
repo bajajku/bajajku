@@ -74,7 +74,7 @@
 
 ---
 
-### 📈 THE DASHBOARD (Numbers don't lie)
+### 📈 Irrelevant Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bajajku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=FF69B4&title_color=FF69B4" height="150" alt="GitHub Stats" />
@@ -84,5 +84,5 @@
 <br>
 
 <div align="center">
-  <i>Let’s build something cool — or at least something that actually compiles. 😉</i>
+  <i>Let’s build something cool — or at least something that works 😉</i>
 </div>
