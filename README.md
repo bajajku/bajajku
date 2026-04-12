@@ -2,7 +2,7 @@
 
 # Hi, I’m Kunal Bajaj 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Incoming+SWE+%40+Google;AI+Safety+%7C+Researcher;Life-maxxing...;Happiness+of+the+Pursuit" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Incoming+SWE+%40+Google;AI+Safety+%7C+Applied Researcher;Life-maxxing...;Happiness+of+the+Pursuit" alt="Typing SVG" /></a>
 
 **Honours BSc in Computer Science (Dec 2026)**
 
@@ -35,7 +35,7 @@
 **Applied AI Engineer/Researcher @ Sheridan Centre for Applied AI**
 *Projects I actually shipped to production:*
 * 🎖️ **Veteran Affairs Canada:** Agentic mental-health chatbot (AI helping veterans carry the load).
-* 👶 **Korah:** ML that predicts NICU beds *(saving babies > your AI wrapper startup idea)*.
+* 👶 **Korah:** ML that predicts NICU beds *(saving babies > anything)*.
 * ⚙️ **VEE Technologies:** C++ fabric sensor sorcery (low-level programming, yay).
 * 📚 **Oakville Public Library:** LangChain RAG chatbot (overengineered with optimized chunking + concurrent request handling because why not).
 
