@@ -1,88 +1,41 @@
-<div align="center">
+# Kunal Bajaj
 
-# Hi, I’m Kunal Bajaj 👋
+**Software engineer focused on applied AI.**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=SWE+%40+Google;AI+Safety+%7C+Applied+Researcher;Life-maxxing...;Happiness+of+the+Pursuit" alt="Typing SVG" /></a>
+I build and improve AI applications, from the inference running underneath to the workflows and interfaces people use. My experience spans production systems, agent development and applied research.
 
-**Honours BSc in Computer Science (Dec 2026)**
+[Portfolio](https://bajajku-github-io.vercel.app/) · [LinkedIn](https://ca.linkedin.com/in/kunal-bajaj1) · [Email](mailto:kunalbajaj20220@gmail.com)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bajajku&color=FF69B4&style=flat&label=views&logo=github)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=FF69B4)](https://linkedin.com/in/kunal-bajaj1)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=codepen&logoColor=FF69B4)](https://bajajku-github-io.vercel.app/)
+## Experience
 
-</div>
+- **Google · Software engineering internship, AI Safety**  
+  Worked on inference for Workspace AI and production safety-classifier migration, with a focus on model efficiency and evaluation.
+- **PointClickCare · Applied research internship**  
+  Built AutoMed, an agent that proposes, tests and verifies medical extraction policies, taking it from design to production.
+- **Sheridan Centre for Applied AI · Research & engineering**  
+  Built chatbots and forecasting systems, working across retrieval, LoRA fine-tuning, vLLM serving and evaluation.
 
----
+## What I bring
 
-### 🧠 SYSTEM PROMPT (About Me)
-> **Status: Life-maxxing.** <br> 
-> Currently fine-tuning my brain’s foundational model on a chaotic dataset of Philosophy, Health, Sports, Code, Finance, and Music. Just trying to minimize my loss function in real life.
+- **Efficient inference:** Benchmark models and tune serving for latency, throughput and compute use, drawing on production C++ inference and GPU model hosting.
+- **Agents and evaluation:** Build workflows with explicit testing and verification, and evaluations that measure output quality.
+- **Retrieval and adaptation:** Connect AI applications to relevant documents and tasks through hybrid retrieval, LoRA, input guardrails and fallbacks.
+- **Software around the model:** Build APIs, interfaces and asynchronous pipelines, with attention to concurrency and failure handling.
 
----
+Tools I work with include **Python, C++, TypeScript, Swift, PyTorch, vLLM, LangGraph, FastAPI, React and SwiftUI**. My foundation is in data structures and algorithms, system design, debugging and code review.
 
-### 🚀 CAREER ARC (So far)
+## Selected projects
 
-<img align="right" src="https://media.tenor.com/V9KzYqD2k1IAAAAi/cat-typing.gif" width="180" alt="Coding gif"/>
+- [**Coda**](https://github.com/bajajku/Coda): A real-time collaboration space with AI-generated meeting recaps. [Watch the demo](https://www.youtube.com/watch?v=3CKrapzaJ-k).
+- [**VAC**](https://github.com/bajajku/VAC): A veteran-support research chatbot combining retrieval, model adaptation and response evaluation.
+- [**Groovify**](https://github.com/bajajku/Groovify): An iOS music discovery app built with Swift and SwiftUI.
 
-**Software Engineer Intern @ Google**
-*Google Workspace AI Safety Team*
-* Making sure the AI doesn't go rogue. The LeetCode grind actually paid off :)
+I've also contributed to [LangChain](https://github.com/langchain-ai/langchain/pulls?q=author%3Abajajku+is%3Amerged) and [Streamlit](https://github.com/streamlit/streamlit/pulls?q=author%3Abajajku+is%3Amerged).
 
-**Applied AI Researcher Intern @ PointClickCare**
-*Advanced Tech Team*
-* Intern era: absorbing knowledge directly from PhD researchers.
+## Currently exploring
 
-**Applied AI Engineer/Researcher @ Sheridan Centre for Applied AI**
-*Projects I actually shipped to production:*
-* 🎖️ **Veteran Affairs Canada:** Agentic mental-health chatbot (AI helping veterans carry the load).
-* 👶 **Korah:** ML that predicts NICU beds *(saving babies > anything)*.
-* ⚙️ **VEE Technologies:** C++ fabric sensor sorcery (low-level programming, yay).
-* 📚 **Oakville Public Library:** LangChain RAG chatbot (overengineered with optimized chunking + concurrent request handling because why not).
-
+Building a GPT from scratch and experimenting with vLLM to understand models and inference more deeply. Also reading about agent reflection and coordination, AI safety and mechanistic interpretability.
 
 ---
 
-### 🎯 WHAT I’M ACTUALLY INTO
-- 🏗️ **Building production-grade AI systems** that don’t immediately fall apart when users do something weird.
-- 📄 **Reading research papers** and translating the complex math into code that works.
-- ⚔️ **DSA** (Getting humbled by LeetCode Hards on a daily basis).
-- 🔓 **Open Source** (Making PRs when I find something genuinely interesting).
-- 📐 **System Design** (Drawing boxes and arrows until they finally make sense).
-
----
-
-### ⚙️ THE STACK (The ones that get used)
-
-#### 🧑‍💻 Languages I Tolerate
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=FF69B4)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=FF69B4)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&color=FF69B4)
-
-#### 🧰 Frameworks That Pay The Bills
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&color=FF69B4)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=FF69B4)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=FF69B4)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=FF69B4)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white&color=FF69B4)
-
-#### ☁️ Where I Deploy (And Pray)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF69B4)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=FF69B4)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=FF69B4)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&color=FF69B4)
-
----
-
-### 📈 Irrelevant Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bajajku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=FF69B4&title_color=FF69B4" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajajku&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4" height="150" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>Let’s build something cool — or at least something that works 😉</i>
-</div>
+Honours Bachelor of Computer Science, Mobile Computing · Sheridan College · Expected graduation December 2026.
